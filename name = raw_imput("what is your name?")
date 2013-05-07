@@ -1,2 +1,0 @@
-name = raw_imput("what is your name?")
-print "hello, " + name
